@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod –preference=olleh hello
+chmod --preference=olleh hello
